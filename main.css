@@ -24,6 +24,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
     margin-top: 1.3em;
+    color: #00897B;
 }
 
 a {
@@ -65,4 +66,10 @@ img {
 hr {
     opacity: 35%;
     width: 40%
+}
+
+a {
+   color: #00897B;
+    text-align: center;
+    display: block;
 }
