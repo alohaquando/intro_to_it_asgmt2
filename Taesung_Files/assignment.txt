@@ -1,0 +1,12 @@
+My ideal job is computer security expert. And I think computer network and systems engineer can involve to it (rank : 13)
+From your group’s ideal jobs, you can identify a set of skills required for these jobs (we will refer to this as your group’s ​required skill set​). These can be divided into general skills​ (communication, problem-solving, writing etc) and​ IT-specific skills (Javascript, SQL, etc).
+    How do the ​IT-specific skills​ in your required skill set rank in terms of demand from employers?
+computer security experts should be a master in most of C languages, tools, and skills. And I can recongnize these estimate most of highest rates(SQL,JavaScript,JAVA,Microsoft Windows,Microsoft C#,Linux,Software engineering, Net programming, Python.
+    How do the​ general skills​ in your required skill set rank in terms of demand from employers?
+To solve computer security situations, computer security experts require these skills. Communication skills,Problem solving,Trouble shooting, Planning, creativity, Research, Decision making. Most of them rate highest demand from employees.
+    What are the three highest-ranked ​IT-specific skills​ which are not in your required skill set?
+I think there's no one not matched to my ideal job. Because the aim of my ideal job is searching a vulnerable parts in the network and software. So, I have to familiar with the highest demand skill and know how to use it.
+    What are the three highest-ranked ​general skills​ which are not in your required skill set?
+I think I don't need much about organisational skill becuase when I see the another aspects, I need a communication skill. When I need to get solution of vulnerable components, I need problem solving skills. But, at now, I can't guess any ways to use organisational skill if I am a computer security expert.
+Having looked at the Burning Glass data, has your opinion of your ideal job changed? Why or why not?
+My mind is not change much because I am sure that every programs, servers, and websites need my ideal job's role.
