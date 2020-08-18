@@ -24,14 +24,12 @@ One of the recent trends in the car is self-driving technology. In the road, eve
 On the other hand, machine learning can replace some jobs. As you know interpreter can be replaced by a translator application. And also, many reports and researchers expect that vehicle drivers will be replaced in the future.
 
 How will this affect you? (300 words) ​In your daily life, how will this affect you? What will be different for you? How might this affect members of your family or your friends?
+
 These are the example of machine learning technology that we can see in our daily life.
 In the house, IoT(Internet of things) home systems have face recognition. So they can recognize the home owner's face, visitors who are invited, and uninvited visitors. It also arranges your schedule and records your daily pattern like when you wake up, go to work, doing exercise, something like that.
 When you are watching videos on Youtube, watching daily news on the internet, or using Spotify to listen to music, you will see the recommendations of sites. These recommendations are coming from the machine-learning and big data technology that recognizes the pattern, finding the data you like, and recommend it.
-In these days, when we are driving, we can see many autonomous cars are running on the road. These vehicles are consist of sensors and machine learning technology. Since these vehicles are manufactured, people don't have to focus while driving and feel tired. They just put their hands on the steering wheel.  In my case, when my family been on the trip, I don't feel tired while driving to the destination. 
+In these days, when we are driving, we can see many autonomous cars are running on the road. These vehicles are consist of sensors and machine learning technology. Since these vehicles are manufactured, people don't have to focus while driving and feel tired. A.I in the autonomous car be aware of the road situation and it drives to the destination safely. They just put their hands on the steering wheel.  In my case, when my family been on the trip, I don't feel tired while driving to the destination. As people are using these autonomous vehicles, incidents on the road will be decreased. In the future, people will surprise people who have to drive their own in the past.
 We can meet machine learning technology more common than you think. It helps and manages us for an efficient and comfortable life.  As a result, people are affected by machine learning surrounding everywhere. In daily life, we see an advertisement on the internet that relies on big data and machine learning. Geeting management by healthcare applications is also based on machine learning. Machine learning technology is not a technology that we can only see at the science fiction novel.
-
-.
-
 
 https://expertsystem.com/machine-learning-definition/
 https://www.protiviti.com/US-en/insights/effects-machine-learning
